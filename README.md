@@ -24,30 +24,39 @@ This is a demo application that fetches and displays the most popular articles f
    cd ny-times-demo
    ```
 
-2. npm install
-
-   # or
-
-   yarn install
+2. ```sh
+    npm install
+    or
+    yarn install
+   ```
 
 3. Create a .env.local file in the root of the project and add your API key:
-   NEXT_PUBLIC_API_KEY=xxxxxxxx
+
+```sh
+NEXT_PUBLIC_API_KEY=xxxxxxxx
+```
 
 4. Running the App
    To start the development server, run:
+
+   ```sh
    npm test
 
    # or
 
    yarn test
+
+   ```
 
 5. Open http://localhost:3000 with your browser to see the result.
 
 6. Running Tests
    To run the tests, use:
-   npm test
+   ```sh
+    npm test
    # or
    yarn test
+   ```
 
 Project Structure
 . components: Contains the React components
@@ -56,6 +65,5 @@ Project Structure
 
 API
 The app fetches articles from the New York Times Most Popular API. Ensure you have a valid API key and add it to the .env.local file.
-# ny-times-demo
-# ny-times-demo
+
 # ny-times-demo
