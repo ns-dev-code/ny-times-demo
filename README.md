@@ -58,3 +58,4 @@ API
 The app fetches articles from the New York Times Most Popular API. Ensure you have a valid API key and add it to the .env.local file.
 # ny-times-demo
 # ny-times-demo
+# ny-times-demo
