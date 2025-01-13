@@ -26,7 +26,7 @@ This is a demo application that fetches and displays the most popular articles f
 
 2. ```sh
     npm install
-    or
+    # or
     yarn install
    ```
 
@@ -52,9 +52,12 @@ NEXT_PUBLIC_API_KEY=xxxxxxxx
 
 6. Running Tests
    To run the tests, use:
+
    ```sh
     npm test
+
    # or
+
    yarn test
    ```
 
