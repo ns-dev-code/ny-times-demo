@@ -1,6 +1,6 @@
 const puppeteer = require('puppeteer');
 
-const pageUrl = "http://localhost:3000";
+const pageUrl = "http://localhost:3001";
 describe('NY Times Most Popular Articles E2E Tests', () => {
   let browser;
   let page;
